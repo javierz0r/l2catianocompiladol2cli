@@ -13,7 +13,7 @@
 		<picocli.version>3.9.3</picocli.version>
 		<jgit.version>5.2.1.201812262042-r</jgit.version>
 		<slf4j.version>1.7.25</slf4j.version>
-		<log4j.version>2.11.1</log4j.version>
+		<log4j.version>2.16.0</log4j.version>
 		<mysql-connector-java.version>8.0.15</mysql-connector-java.version>
 		<asciitable.version>0.3.2</asciitable.version>
 		<owner.version>1.0.10</owner.version>
